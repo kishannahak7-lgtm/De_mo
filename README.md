@@ -1,2 +1,2 @@
 # De_mo
-This is my first repo
+This is my first repositori
